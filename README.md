@@ -14,7 +14,7 @@ After you complete installation setup Thunderstore, you should see a list of gam
 ## Import mods
 Click the "Import/Update" button. Then click "Import New Profile". Finally, click from "From Code" button and paste paste this code:
 ```
-018cf14c-a0a7-195d-e7ec-e832d762bee9
+018cf195-670e-2fbe-ea0a-03a393feb7a5
 ```
 ![Click the Import / Update button](https://raw.githubusercontent.com/LeadChicken/modlc/main/images/importupdate.png)
 ## Start the Game
